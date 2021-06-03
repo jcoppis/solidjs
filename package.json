@@ -1,0 +1,24 @@
+{
+  "name": "solidjstest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.tsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "babel-preset-solid": "^0.26.5",
+    "postcss": "^8.3.0",
+    "tailwindcss": "^2.1.4",
+    "vite": "^2.3.6",
+    "vite-plugin-solid": "^1.8.0"
+  },
+  "dependencies": {
+    "solid-js": "^0.26.5"
+  }
+}
